@@ -10,7 +10,7 @@ Un programme en **C++** pour gérer une liste de contacts avec recherche, ajout,
 
 ## Structure du projet
 
-- 'main.cpp' - boucle du programme
+- `main.cpp` - boucle du programme
 - `contact.h / contact.cpp` - Classe Contact
 - `fiche_de_contact.h / fiche_de_contact.cpp` - Gestion des fiches (pas finis)
 - `commande.h / commande.cpp` - Gestion des commandes
