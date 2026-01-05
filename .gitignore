@@ -1,0 +1,15 @@
+# Fichiers de données (générés automatiquement)
+*.txt
+
+# Code::Blocks
+bin/
+obj/
+*.o
+*.depend
+*.layout
+*.layout.save
+*.exe
+
+# Fichier de projet
+gestion de contact.cbp
+gestion de contact.layout
